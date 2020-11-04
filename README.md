@@ -6,7 +6,7 @@
  2. 矩阵处理=图像处理
  3. 必须掌握的几种图像处理方法
  - .
- - 作业：运用图像滤波方法，对以下图片进行噪声去除（把人像上的斑点作为噪声）
+###  作业：运用图像滤波方法，对以下图片进行噪声去除（把人像上的斑点作为噪声）
  - 人像图
 <p align="center">
   <img src="https://github.com/anjiang2016/IntroCV/blob/main/Pasted%20Graphic.png" alt="作业人像图" width='50%' height='50%' />
