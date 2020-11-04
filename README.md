@@ -10,4 +10,21 @@
  - 人像图
  ![image](https://github.com/anjiang2016/IntroCV/blob/main/Pasted%20Graphic.png)
 
-## 认识机器视觉
+## part2 认识机器视觉
+## part3 线性模型/罗辑思特回归模型
+## part4 感知机/反向传播模型
+## part5 决策树与随机森林
+## part6 神经网络卷积化
+## part7 卷积神经网络的提升思路 part1 
+## part8 卷积神经网络的替身思路 part2
+## part9 GPU编程基础
+## part10 基于深度学习的分类模型设计思路
+## part11 基于深度学习的分割模型设计思路
+## part12 检测模型设计思路-RCNN全家桶
+## part13 检测模型设计思路-YOLO全家桶
+- 以下为待定内容
+## part14 序列处理RNN/LSTM，seq2seq
+## part15 注意力机制与transformer
+## part16 数学公式识别
+## part17 人脸识别
+
