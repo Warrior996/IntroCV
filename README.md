@@ -9,8 +9,9 @@
  - 作业：运用图像滤波方法，对以下图片进行噪声去除（把人像上的斑点作为噪声）
  - 人像图
 <p align="center">
-  <img src="https://github.com/anjiang2016/IntroCV/blob/main/Pasted%20Graphic.png" alt="作业人像图"/>
+  <img src="https://github.com/anjiang2016/IntroCV/blob/main/Pasted%20Graphic.png" alt="作业人像图" width='50%' height='50%' />
 </p>
+
 ## part2 认识机器视觉
 ## part3 线性模型/罗辑思特回归模型
 ## part4 感知机/反向传播模型
